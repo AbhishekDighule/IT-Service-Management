@@ -11,3 +11,8 @@ Create a new environment
 ```
 conda create -p venv python==3.7 -y
 ```
+Error - ModuleNotFoundError: No module named 'sklearn.ensemble._gb_losses'
+
+```
+conda install scikit-learn
+```
