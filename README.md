@@ -28,3 +28,7 @@ Error - ModuleNotFoundError: No module named 'sklearn.ensemble._gb_losses'
 ```
 conda install scikit-learn
 ```
+# Deployment
+
+
+![Screenshot 2024-03-29 115241](https://github.com/AbhishekDighule/IT-Service-Management/assets/145597070/88155e21-d8e4-4da3-874e-6fbd09f41298)
